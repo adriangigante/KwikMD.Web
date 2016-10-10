@@ -18,7 +18,7 @@
     "KwikMD.Web": {
       "commandName": "Project",
       "launchBrowser": true,
-      "launchUrl": "http://localhost:8080",
+      "launchUrl": "http://0.0.0.0:8080",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
