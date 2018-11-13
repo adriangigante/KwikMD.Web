@@ -3,7 +3,7 @@ Demo project for demos that demos things (with Markdown)
 
 ## Software requirements
 
- [.NET Core](https://www.microsoft.com/net/core)
+ [.NET Core](https://www.microsoft.com/net/core) 1.0
  
  [Visual Studio Code](https://code.visualstudio.com/download) recommended 
 
